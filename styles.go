@@ -1,8 +1,5 @@
 package docx
 
-// defaultStylesXML remains unchanged from your original version.
-// It's a large constant string, so I'll omit it here for brevity,
-// but ensure you have the exact content from your original styles.go file.
 const defaultStylesXML = `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:styles xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
   <w:docDefaults>
